@@ -1,6 +1,5 @@
 # =============================================================
 # PROJETO: Calculadora em Python (Projeto para Faculdade)
-# Autor: Rafael Douglas
 # Descrição:
 # Este projeto implementa uma calculadora simples em Python
 # com operações básicas e estrutura organizada para GitHub.
