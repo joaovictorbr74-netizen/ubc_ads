@@ -1,8 +1,10 @@
 # =============================================================
-# PROJETO: Calculadora em Python (Projeto para Faculdade)
-# Descrição:
-# Este projeto implementa uma calculadora simples em Python
-# com operações básicas e estrutura organizada para GitHub.
+# PROJETO: Calculadora em Python
+#integrantes :
+#Davi Henrique Viana da Silva 43494633
+#Gabriel Rodrigues Da Silva 41780841
+#Guilherme Virche Dos Santos 42574773
+#João Victor Nogueira Galvão 42721482
 # =============================================================
 
 """
